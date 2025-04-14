@@ -42,4 +42,5 @@ Red bar: Diseased Heart<br><br>
 
 ![Output](https://github.com/user-attachments/assets/a301ff2c-790d-47be-b3c4-45c703a9e8df)
 
-
+<br>
+<a href="https://heart-disease-prediction-0205.streamlit.app/"> Try the heart disease prediction model by clicking on this link </a>
